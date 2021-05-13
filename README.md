@@ -8,8 +8,8 @@
 <center>
   <table align="center">
     <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabellefrederico&show_icons=true&theme=vue-dark&layout=compact" alt="IsabelleFrederico Stats" /></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=isabellefrederico&show_icons=true&theme=vue-dark" alt="IsabelleFrederico" /></td>
+        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabellefrederico&show_icons=true&theme=vue-dark&layout=compact" alt="IsabelleFrederico Stats" height="200"/></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=isabellefrederico&show_icons=true&theme=vue-dark" alt="IsabelleFrederico" height="200"/></td>
     </tr>
   </table>
 </center>
@@ -17,7 +17,7 @@
 <center>
   <table align="center">
     <tr>
-      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabellefrederico&theme=vue-dark" alt="IsabelleFrederico stats" /></td>
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabellefrederico&theme=vue-dark" alt="IsabelleFrederico stats" height="200"/></td>
     </tr>
   </table>
 </center>
