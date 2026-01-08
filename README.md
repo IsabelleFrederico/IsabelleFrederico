@@ -8,8 +8,8 @@
 <center>
   <table align="center">
     <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabellefrederico&show_icons=true&theme=vue-dark&layout=compact" alt="IsabelleFrederico Stats" height="200"/></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=isabellefrederico&show_icons=true&theme=vue-dark" alt="IsabelleFrederico" height="200"/></td>
+        <td>Most of my recent work was developed in private repositories due to company policies. The projects pinned here are representative samples and demos</td>
+        <!-- <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=isabellefrederico&show_icons=true&theme=vue-dark" alt="IsabelleFrederico" height="200"/></td> -->
     </tr>
   </table>
 </center>
